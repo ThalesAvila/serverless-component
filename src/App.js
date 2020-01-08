@@ -25,7 +25,7 @@ export default class App extends Component {
         </div>
 
         <div className="tagline">
-          a website built on serverless components via the serverless framework
+          Hello Carteira Global
         </div>
       </div>
     )
